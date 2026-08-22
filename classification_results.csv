@@ -1,0 +1,4 @@
+,Train Accuracy,Validation Accuracy,Test Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Logistic Regression,91.97,92.12,92.03,96.63,92.03,93.61,99.45
+Random Forest,92.51,91.64,91.59,96.51,91.59,93.3,99.57
+XGBoost,97.51,97.27,97.25,97.04,97.25,97.06,99.83
