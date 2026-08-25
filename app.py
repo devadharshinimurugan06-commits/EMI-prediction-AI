@@ -339,3 +339,22 @@ elif page == "🗂️ Admin (CRUD)":
                 new_row.to_csv(log_file, index=False)
             st.success("Record added.")
             st.rerun()
+# =========================================================
+# FOOTER
+# =========================================================
+st.markdown(
+    """
+    <div style="
+        text-align: center;
+        padding: 25px;
+        margin-top: 50px;
+        border-top: 1px solid #444;
+        color: #AAAAAA;
+        font-size: 14px;
+    ">
+        <b>EMIPredict AI</b><br>
+        Built by <b>Devadharshini</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
