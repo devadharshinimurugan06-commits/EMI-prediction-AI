@@ -49,7 +49,7 @@ Both classification model and regression models - actual accuracy / R² score he
 
 - Python
 - Pandas / NumPy — data handling
-- Scikit-learn** — model building (classification + regression)
+- Scikit-learn — model building (classification + regression)
 - MLflow — experiment tracking and model comparison
 - Streamlit — multi-page web app framework & deployment
 - Google Colab — model training environment
