@@ -39,9 +39,9 @@ The app has a navigation sidebar with four pages:
 
 1. Task 1 - Eligibility prediction — Classification (best_classification_model.pk) |
 2. Task 2 - Affordable EMI prediction — Regression (best_regression_model.pkl ) |
-| Preprocessing | Label encoding (label_encoders.pkl) + feature scaling (manual_scaler.pkl) |
+ Preprocessing | Label encoding (label_encoders.pkl) + feature scaling (manual_scaler.pkl) 
 | Experiment tracking | MLflow (mlflow.db) |
-| Results.
+Results.
 
 Both classification model and regression models - actual accuracy / R² score here — Classification accuracy: 91% | Regression R²: 0.87
 
