@@ -43,7 +43,7 @@ The app has a navigation sidebar with four pages:
 | Experiment tracking | MLflow (mlflow.db) |
 Results.
 
-Both classification model and regression models - actual accuracy / R² score here — Classification accuracy: 91% | Regression R²: 0.87
+Both classification model and regression models - actual accuracy / R² score here — Classification accuracy: 97.25% | Regression R²: 0.97
 
 ##  Tech Stack
 
